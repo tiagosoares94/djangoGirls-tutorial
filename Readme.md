@@ -8,7 +8,7 @@ ___
 
 ## Links:
 
-* [Blog criado](vedderlino.pythonanywhere.com) - Online até 06/2018
+* [Blog criado](http://vedderlino.pythonanywhere.com/) - Online até 06/2018
 
 * [DjangoGirls SJC](https://djangogirls.org/saojosedoscampos/)
 
