@@ -15,3 +15,9 @@ ___
 * [Tutorial em PT-BR](https://tutorial.djangogirls.org/pt/)
 
 * [Adicionando novas features ao blog](https://djangogirls.gitbooks.io/django-girls-tutorial-extensions/content/en/)
+
+___
+
+edit:
+
+Eu tive a oportunidade de ser coach na última edição das Django Girls! Experiência ímpar! 
